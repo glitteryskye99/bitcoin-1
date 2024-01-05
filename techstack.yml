@@ -1,7 +1,8 @@
 repo_name: glitteryskye99/bitcoin-1
 report_id: c857b20884a468a11e5e378b55b2c5cb
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T05:18:24+00:00'
+timestamp: '2024-01-05T08:59:15+00:00'
 requested_by: glitteryskye99
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/glitteryskye99/bitcoin-1
   detection_source: Repo Metadata
